@@ -7,8 +7,8 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 
 // Provider configuration - change these for different providers
-const providerName = "yourprovidername";
-const providerTitle = "Your Provider Title";
+const providerName = "homebrew"; // used in URLs and file paths, must be all lowercase
+const providerTitle = "Homebrew";
 
 const providerDropDownListItems = [
   {
